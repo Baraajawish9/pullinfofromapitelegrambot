@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Local/private bot files with real tokens, credentials, API responses, or private endpoints.
+Code/bot.py
+api token.txt
+3.py
+asf.py
+response.json
