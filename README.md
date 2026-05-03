@@ -28,7 +28,7 @@ with another user.
 
 ## Files
 
-- `public_bot_template.py` - the generic bot code.
+- `bot.py` - the generic bot code.
 - `requirements.txt` - Python dependencies.
 - `.gitignore` - prevents private files, tokens, local test files, and generated
   files from being committed.
